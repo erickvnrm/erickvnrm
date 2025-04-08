@@ -4,12 +4,13 @@
 
 <div>
 
-I'm a backend developer who’s always eager to learn and grow in the world of web development. 
-I mainly work with PHP (Laravel), Python (FastAPI), and Java (Spring Boot).
+- I'm a backend developer who’s always eager to learn and grow in the world of web development. 
+- I mainly work with PHP (Laravel), Python (FastAPI), and Java (Spring Boot).
 
-I like to focus on writing clean, functional, and well-structured code. I enjoy solving problems and building web applications from scratch or improving existing ones.
+- I like to focus on writing clean, functional, and well-structured code.
+- I enjoy solving problems and building web applications from scratch or improving existing ones.
 
-Right now, I'm looking for my first opportunity as a junior developer. If you're up for collaborating or have an interesting project, feel free to reach out!
+- If you're up for collaborating or have an interesting project, feel free to reach out!
 
 </div>
 
@@ -19,7 +20,7 @@ Right now, I'm looking for my first opportunity as a junior developer. If you're
 [![Gmail Badge](https://img.shields.io/badge/-erickvnrm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickvnrm@gmail.com)](mailto:erickvnrm@gmail.com)
 
 ## 🛠 &nbsp;My Skills
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 - 💻 &nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
