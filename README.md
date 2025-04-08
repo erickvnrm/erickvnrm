@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-
 <h3> Hey there👋! I'm Prathmesh Jadhav.</h2>
 <h2> Currently working as a Software Engineer </h2>
 
