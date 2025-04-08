@@ -2,8 +2,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture>
-
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Engineering at PICT Pune.
 - 💼 &nbsp; Learning about Native Application Development(Flutter and React Native).
