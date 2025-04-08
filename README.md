@@ -16,7 +16,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-Prathmesh%20Jadhav-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)](https://www.linkedin.com/in/erick-valbuena-785bb9341/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-valbuena-785bb9341/)](https://www.linkedin.com/in/erick-valbuena-785bb9341/)
 [![Gmail Badge](https://img.shields.io/badge/-erickvnrm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickvnrm@gmail.com)](mailto:erickvnrm@gmail.com)
 
 ## 🛠 &nbsp;My Skills
