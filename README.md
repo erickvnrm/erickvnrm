@@ -20,7 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-erickvnrm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickvnrm@gmail.com)](mailto:erickvnrm@gmail.com)
 
 ## 🛠 &nbsp;My Skills
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px></picture>
 - 💻 &nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
