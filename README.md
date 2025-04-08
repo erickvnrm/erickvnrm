@@ -4,7 +4,7 @@
 
 <div>
 
-- I'm a backend developer who’s always eager to learn and grow in the world of web development. 
+- I'm a backend developer who’s always eager to learn and grow in the world of web applications. 
 - I mainly work with PHP (Laravel), Python (FastAPI), and Java (Spring Boot).
 
 - I like to focus on writing clean, functional, and well-structured code.
