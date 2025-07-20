@@ -5,7 +5,7 @@
 <div>
 
 - I'm a backend developer who’s always eager to learn and grow in the world of web applications. 
-- I mainly work with PHP (Laravel).
+- I mainly work with PHP, Java, Python.
 - I enjoy solving problems and building web applications from scratch or improving existing ones.
 ### some roles in the field
 - 🏗️ Database Handler - Create/migrate tables, define basic relationships, optimize simple queries
